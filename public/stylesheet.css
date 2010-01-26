@@ -1,0 +1,5 @@
+*,html { margin:0; padding:0; }
+body { background:#333; font-family:'Georgia'; font-size:16px; text-align:center; }
+
+div#container { background:#EEE; text-align:left; width:960px; margin:20px auto; padding:10px 0 0 0; }
+h1 { margin:0 0 20px 10px; }
